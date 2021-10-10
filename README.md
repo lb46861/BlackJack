@@ -1,7 +1,4 @@
 # BlackJack
-C++ console game
-
-# BlackJack
 
 Objektno programiranje - Projekt BlackJack
 
